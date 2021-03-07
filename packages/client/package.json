@@ -9,8 +9,12 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@nuxt/types": "^2.15.2",
+    "@nuxt/typescript-build": "^2.1.0",
     "core-js": "^3.8.3",
     "nuxt": "^2.14.12"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@nuxt/typescript-runtime": "^2.1.0"
+  }
 }
