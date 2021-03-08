@@ -67,6 +67,8 @@ module.exports = {
 
     'no-multi-assign': 'warn',
 
+    'no-multi-spaces': 'warn',
+
     'no-multiple-empty-lines': 'warn',
 
     'no-negated-condition': 'warn',
